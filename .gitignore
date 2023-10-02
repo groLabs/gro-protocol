@@ -1,0 +1,12 @@
+build/
+node_modules/
+.DS_Store
+.vscode
+tmp/
+.env
+artifacts/
+cache/
+package-lock.json
+truffle-config.js
+data/abi/
+abi/
